@@ -184,3 +184,11 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+
+# config/config.yaml 示例
+rss:
+  enabled: true
+  feeds:
+    - id: "hacker-news"
+      name: "Hacker News"
+      url: "https://hnrss.org/frontpage"
