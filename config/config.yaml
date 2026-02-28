@@ -170,8 +170,6 @@ platforms:
     name: "澎湃新闻"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "jinshi"
-    name: "金十数据"
   - id: "weibo"
     name: "微博"
   - id: "wallstreetcn-hot"
