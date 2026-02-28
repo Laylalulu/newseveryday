@@ -627,7 +627,7 @@ async def get_system_status() -> str:
 @mcp.tool
 async def trigger_crawl(
     platforms: Optional[List[str]] = None,
-    save_to_local: bool = False,
+    save_to_local: bool = True,
     include_url: bool = False
 ) -> str:
     """
